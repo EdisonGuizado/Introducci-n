@@ -1,0 +1,16 @@
+
+/* Estilo con CSS */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px;
+}
+
+p {
+    color: grey;
+    font-family: Arial, sans-serif;
+}
