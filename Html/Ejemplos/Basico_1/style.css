@@ -1,0 +1,42 @@
+
+/* Estilo con CSS */
+body {
+   background-color: #f0f0f0;
+   font-family: Arial, sans-serif;
+   text-align: center;
+   padding: 20px;
+   color: red;
+}
+h1 {
+   color: #110f0f;
+}
+p {
+   color: #131212;
+   font-size: 18px;
+}
+/* Estilos para el menú de navegación */
+nav {
+   background-color: #333;
+   padding: 10px 0;
+   text-align: center;
+}
+
+nav ul {
+   list-style: none;
+   padding: 0;
+   margin: 0;
+   display: flex;
+   justify-content: center;
+}
+
+nav ul li {
+   margin: 0 15px;
+}
+
+nav ul li a {
+   color: white;
+   text-decoration: none;
+   font-size: 18px;
+   padding: 10px 15px;
+   display: block;
+}
